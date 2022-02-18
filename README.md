@@ -1,4 +1,4 @@
-# TicTacToe-Comand-Line
+# TicTacToe Comand Line
 
 TicTacToe in a simple comand line.
 
